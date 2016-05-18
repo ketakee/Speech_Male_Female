@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr 26 13:28:02 2016
-
+This creates a frequency vs power graph for the male voice saying goodbye.
+The sound file can be found at : 
+http://consumingfireartisticcreations.weebly.com/the-sound-effects-library.html
 @author: Ketakee Nimavat
 """
 #import wave
