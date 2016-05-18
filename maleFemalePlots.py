@@ -1,6 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr 25 18:19:48 2016
+This program plots the output of the wav file of male and female voices saying goodbye.
+The sound can be found at:
+http://consumingfireartisticcreations.weebly.com/the-sound-effects-library.html
+listed as :
+_male_voice_goodbye_sound_effect
+_female_voice_goodbye_sound_effect
 
 @author: Ketakee Nimavat
 """
